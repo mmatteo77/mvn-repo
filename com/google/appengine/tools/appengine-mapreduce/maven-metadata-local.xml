@@ -3,10 +3,9 @@
   <groupId>com.google.appengine.tools</groupId>
   <artifactId>appengine-mapreduce</artifactId>
   <versioning>
-    <release>0.8.5c</release>
     <versions>
-      <version>0.8.5c</version>
+      <version>0.9-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20160119151006</lastUpdated>
+    <lastUpdated>20160120135129</lastUpdated>
   </versioning>
 </metadata>
