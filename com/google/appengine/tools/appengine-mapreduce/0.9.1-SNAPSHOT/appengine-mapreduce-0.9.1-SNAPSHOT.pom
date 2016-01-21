@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.google.appengine.tools</groupId>
   <artifactId>appengine-mapreduce</artifactId>
-  <version>0.9-SNAPSHOT</version>
+  <version>0.9.1-SNAPSHOT</version>
   <description>POM was created from install:install-file</description>
   <dependencies>
     <!-- Compile/Runtime Dependencies -->

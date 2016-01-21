@@ -2,22 +2,22 @@
 <metadata modelVersion="1.1.0">
   <groupId>com.google.appengine.tools</groupId>
   <artifactId>appengine-mapreduce</artifactId>
-  <version>0.9-SNAPSHOT</version>
+  <version>0.9.1-SNAPSHOT</version>
   <versioning>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
-    <lastUpdated>20160120135129</lastUpdated>
+    <lastUpdated>20160210153929</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.9-SNAPSHOT</value>
-        <updated>20160120135129</updated>
+        <value>0.9.1-SNAPSHOT</value>
+        <updated>20160210153929</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.9-SNAPSHOT</value>
-        <updated>20160120135129</updated>
+        <value>0.9.1-SNAPSHOT</value>
+        <updated>20160210153929</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
